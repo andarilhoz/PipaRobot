@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleaningRobot", "CleaningRobot\CleaningRobot.csproj", "{517447F6-76FA-47D7-BC4E-C720E79BC4DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCleaningRobot", "TestCleaningRobot\TestCleaningRobot.csproj", "{20EEB359-CB94-45AC-868A-CE8EDBB814FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{517447F6-76FA-47D7-BC4E-C720E79BC4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517447F6-76FA-47D7-BC4E-C720E79BC4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517447F6-76FA-47D7-BC4E-C720E79BC4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517447F6-76FA-47D7-BC4E-C720E79BC4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A304F17A-EF75-4AB2-BC30-E479AAD3C488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A304F17A-EF75-4AB2-BC30-E479AAD3C488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A304F17A-EF75-4AB2-BC30-E479AAD3C488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A304F17A-EF75-4AB2-BC30-E479AAD3C488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20EEB359-CB94-45AC-868A-CE8EDBB814FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EEB359-CB94-45AC-868A-CE8EDBB814FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EEB359-CB94-45AC-868A-CE8EDBB814FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EEB359-CB94-45AC-868A-CE8EDBB814FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
